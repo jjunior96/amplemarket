@@ -1,0 +1,56 @@
+{
+  // Apenas para gravar
+  "workbench.statusBar.visible": false,
+  "workbench.editor.showTabs": "single",
+  "workbench.editor.enablePreview": false,
+  "workbench.activityBar.location": "hidden",
+
+
+
+  // "debug.console.lineHeight": 36,
+  // "debug.toolBarLocation": "docked",
+  // "diffEditor.ignoreTrimWhitespace": false,
+  // "diffEditor.renderSideBySide": false,
+  // "editor.colorDecorators": false,
+  // "editor.fontLigatures": true,
+  // "editor.lineHeight": 26,
+  // "editor.lineNumbers": "off",
+  // "editor.minimap.enabled": false,
+  // "editor.occurrencesHighlight": false,
+  // "editor.renderLineHighlight": "none",
+  // "editor.renderWhitespace": "none",
+  // "editor.scrollbar.horizontalScrollbarSize": 8,
+  // "editor.scrollbar.verticalScrollbarSize": 8,
+  // "explorer.compactFolders": false,
+  // "explorer.decorations.badges": false,
+  // "git.enableSmartCommit": true,
+  // "git.confirmSync": false,
+  // "markdown.preview.markEditorSelection": false,
+  // "problems.decorations.enabled": false,
+  // "scm.diffDecorations": "none",
+  // "terminal.integrated.enableMultiLinePasteWarning": false,
+
+  // "window.title": "${rootName}",
+  // "workbench.activityBar.visible": false,
+  // "workbench.editor.showTabs": false,
+  // // "workbench.editor.enablePreview": false,
+  // // "workbench.editor.revealIfOpen": true,
+  // "workbench.list.horizontalScrolling": true,
+  // "workbench.startupEditor": "none",
+  // "workbench.statusBar.visible": false,
+  // "workbench.tips.enabled": false,
+  // "workbench.tree.indent": 16,
+  // "workbench.tree.renderIndentGuides": "none",
+  // "editor.glyphMargin": false,
+
+
+  // "editor.formatOnSave": false,
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.eslint": true
+  // },
+  // "typescript.tsdk": "node_modules/typescript/lib",
+  // "typescript.enablePromptUseWorkspaceTsdk": true,
+  // "editor.tabCompletion": "on",
+  // "diffEditor.codeLens": true,
+  // "workbench.editor.empty.hint": "text",
+}
