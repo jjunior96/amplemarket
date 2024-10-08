@@ -1,8 +1,8 @@
 'use client';
+import { useCallback, useEffect, useState } from 'react';
 
 import { LoadPostListGateway } from '@/application/gateway';
 import { OutputProps, parseStringDocument } from '@/services';
-import { useCallback, useEffect, useState } from 'react';
 
 type PreviewProps = {
   loadPostList: LoadPostListGateway;
